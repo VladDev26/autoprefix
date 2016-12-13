@@ -1,0 +1,12 @@
+$clr1: #2a2b32;
+
+body{background: $clr1; color:#FFF;}
+*{margin: 0;padding: 0;}
+.hello{
+	box-sizing: border-box;
+	border: 3px dashed green;
+	// height: 100vh;
+	height: 300px;
+	width: 100%;
+	// min-height: 100vh;
+}
